@@ -1,0 +1,17 @@
+{
+    "name": "database-initializer",
+    "deps": {
+        "rest-cli": {
+            "owner": "aramtech", 
+            "repo": "rest-cli", 
+            "update_policy": "major", 
+            "version": "0.1.0"
+        }
+    },
+    "public_repo": true,
+    "private": false,
+    "hash": "Pr700sceCKqvsWWbx7GUD6i0YYIJgdpvJ522hGF1bhI",
+    "owner": "aramtech",
+    "version": "0.1.1",
+    "description": ""
+}
